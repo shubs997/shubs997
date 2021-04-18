@@ -15,6 +15,7 @@ I am [Shubham](https://www.kumar-saurabh.com/), a passionate and creative develo
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shubs997&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 </div>
-<br />
 
-I am highly self-motivated, enthusiastic, and always willing to learn more. I Always put effort into making User Interface beautiful and practical with tools like Photoshop, Illustrator, and Adobe XD.
+<div>
+ <p>I am highly self-motivated, enthusiastic, and always willing to learn more. I Always put effort into making User Interface beautiful and practical with tools like Photoshop, Illustrator, and Adobe XD.</p>
+</div>
