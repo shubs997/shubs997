@@ -19,3 +19,9 @@ I am [Shubham](https://shubhamj.netlify.app/), a passionate and creative develop
 <div>
  <p>I am highly self-motivated, enthusiastic, and always willing to learn more. I Always put effort into making User Interface beautiful and practical with tools like Photoshop, Illustrator, and Adobe XD.</p>
 </div>
+
+### 📫 How to reach me? 
+
+  ⦿ Visit my [Website](https://shubhamj.netlify.app/) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham566/) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:shubhamjadhav5678@gmail.com) 💌 <br>
