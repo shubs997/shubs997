@@ -3,7 +3,7 @@
 <!--
 **shubs997/shubs997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-I am [Shubham](https://www.kumar-saurabh.com/), a passionate and creative developer with a strong interest in UI/UX and Web Development.🎯 
+I am [Shubham](https://shubhamj.netlify.app/), a passionate and creative developer with a strong interest in UI/UX and Web Development.🎯 
  
  ## My Github Stats:
  
