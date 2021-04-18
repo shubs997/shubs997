@@ -3,6 +3,7 @@
 <!--
 **shubs997/shubs997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
+I am [Shubham](https://www.kumar-saurabh.com/), a passionate and creative developer with a strong interest in UI/UX and Web Development.🎯 
  
  ## My Github Stats:
  
@@ -14,3 +15,6 @@
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shubs997&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 </div>
+
+
+I am highly self-motivated, enthusiastic, and always willing to learn more. I Always put effort into making User Interface beautiful and practical with tools like Photoshop, Illustrator, and Adobe XD.
