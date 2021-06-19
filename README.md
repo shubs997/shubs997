@@ -1,10 +1,12 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **shubs997/shubs997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-I am [Shubham](https://shubhamjadhav.com/), a passionate and creative developer with a strong interest in UI/UX and Web Development.🎯 
-
+<!-- I am [Shubham](https://shubhamjadhav.com/), a passionate and creative developer with a strong interest in UI/UX and Web Development.🎯 
+ -->
+<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h3 align="center">A passionate and creative developer with a strong interest in UI/UX and Web Development.🎯 </h3>
 <!--  ## My Github Stats:
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubs997&label=Profile%20views&color=129e00&style=plastic" alt="shubs997" /> </p>
@@ -15,6 +17,7 @@ I am [Shubham](https://shubhamjadhav.com/), a passionate and creative developer 
 </a>
 </div> -->
 <!-- <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> -->
+### 📫 About me 
 <div>
  <p>I am highly self-motivated, enthusiastic, and always willing to learn more. I Always put effort into making User Interface beautiful and practical with tools like Photoshop, Illustrator, and Adobe XD.</p>
 </div>
