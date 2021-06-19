@@ -3,10 +3,8 @@
 <!--
 **shubs997/shubs997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-<!-- I am [Shubham](https://shubhamjadhav.com/), a passionate and creative developer with a strong interest in UI/UX and Web Development.🎯  -->
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate and creative developer with a strong interest in UI/UX and Web Development.🎯</h3>
-<a align="center" href="shubhamjadhav.com">shubhamjadhav.com</a>
+I am [Shubham](https://shubhamjadhav.com/), a passionate and creative developer with a strong interest in UI/UX and Web Development.🎯 
+
 <!--  ## My Github Stats:
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubs997&label=Profile%20views&color=129e00&style=plastic" alt="shubs997" /> </p>
