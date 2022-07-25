@@ -24,6 +24,14 @@
  <p>I am highly self-motivated, enthusiastic, and always willing to learn more. I Always put effort into making User Interface beautiful and practical with tools like Photoshop, Illustrator, and Adobe XD.</p>
 </div>
 
+
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
+  
+</a>
+
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://shubhamjadhav.com/) 🌐 <br>
