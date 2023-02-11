@@ -21,7 +21,7 @@
 ### 🚀Something about me
 
 <div>
- <p>I am highly self-motivated, enthusiastic, and always willing to learn more. I Always put effort into making User Interface beautiful and practical with tools like Photoshop, Illustrator, and Adobe XD.</p>
+ <p>Building the future, A code wizard who loves to blast off into the great unknown of space, cuddle with their canine co-pilot, get lost in a good book, and fuel their adventures with a plate of authentic Italian cuisine. Always pushing boundaries and exploring new frontiers.</p>
 </div>
 
 ### 🧮Visitor Count
